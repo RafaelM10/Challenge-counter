@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    top: 0;
+    padding: 0px;
+}
+
+.container{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   padding-top: 200px;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+p{
+    font-size: 50px;
+}
+
+.container_Box {
+    margin-top: 20px;
+}
+
+.button1 {
+    font-size: 20px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
